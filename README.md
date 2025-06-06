@@ -1,19 +1,12 @@
-### <div align="center">Merhaba, Ben Özhan Yıldırım </div>  
-  
-
-<div align="center">Bilgi Üniversitesi Bilgisayar Programcılığı Mezunuyum.
-<div align="center">
-Yönetim Bilişim Sistemleri bölümü ile eğitim hayatıma devam ediyorum.
 
 </div>  
   
 
 <br/>  
 <h5  align="center">
-İstinye sahile mısra tükürdüm <br>
-Belimde piştovum şeytan dürtmesi<br>
-Yirmi beş yılımı namluya sürdüm<br>
-Yazgımız elemle beşik kertmesi<br>
+Yüce olan her şey sade, <br>
+sade olan her şey yücedir. <br>
+Yalnızca sığ insanlar yetersizliklerini karmaşık yapıların ardına saklamayı severler.
 </h5>
 
 <div align="center">

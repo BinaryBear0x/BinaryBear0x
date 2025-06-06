@@ -3,11 +3,11 @@
   
 
 <br/>  
-<h5  align="center">
+<h3  align="center">
 Yüce olan her şey sade, <br>
 sade olan her şey yücedir. <br>
 Yalnızca sığ insanlar yetersizliklerini karmaşık yapıların ardına saklamayı severler.
-</h5>
+</h3>
 
 <div align="center">
   

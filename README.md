@@ -1,92 +1,52 @@
-
-</div>  
-  
-
-<br/>  
-<h3  align="center">
-Yüce olan her şey sade, <br>
-sade olan her şey yücedir. <br>
-Yalnızca sığ insanlar yetersizliklerini karmaşık yapıların ardına saklamayı severler.
-</h3>
-
-<div align="center">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=fenrirsoftware&theme=dracula&hide_border=false)
+<h3>Özhan Yıldırım</h3>
+<p>Software Developer / Malware Researcher</p>
 
 
-
-</div>
-
-
-
+<blockquote>
+<p>From the moment I understood the weakness of my flesh it disgusted me. I craved the strength and certainty of steel, I aspired to the purity of the blessed machine. Their kind cling to their flesh, as if it will not decay and fail them. One day the crude biomass that they call a temple will wither, and they will beg our kind to save them. But I am already saved, for the machine is immortal...</p>
+</blockquote>
 
 
-### My Tech Stack  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>
+## Hakkımda
 
-</td><td valign="top" width="33%">
+- C#  ile masaüstü uygulamaları geliştiriyorum
+- Python ile araçlar, otomasyonlar ve analiz odaklı sistemler kuruyorum
+- Küçük ama faydalı araçlar yazmayı sevdiğim kadar daha büyük ürünlere dönüşen sistemler inşa etmeyi de seviyorum
+- Kullanılabilirlik, sadelik ve işlevsellik benim için görsel gösterişten daha önemli
+
+## Şu Anki Odağım
+
+Son dönemde tek seferlik denemelerden çok daha oturmuş ve ürünleşebilir projelere yoğunlaşıyorum.
+
+Özellikle şu alanlara ağırlık veriyorum:
+
+- Windows tooling
+- Malware analizi
+- gerçek operatör ihtiyaçlarına hizmet eden backend sistemleri
+- güvenlik odaklı büyük ürün mimarileri
+
+## Teknolojiler
+
+`C#` `.NET` `Python` `JavaScript` `HTML` `CSS` `PHP` `React` `FastAPI` `PostgreSQL` `Docker` `Redis` `Git` `Linux` 
 
 
+## İstatistikler
 
-</td><td valign="top" width="33%">
+![Profil Görüntülenme](https://komarev.com/ghpvc/?username=BinaryBear0x&style=flat-square)
+![Takipçiler](https://img.shields.io/github/followers/BinaryBear0x?style=flat-square)
+![Toplam Yıldız](https://img.shields.io/github/stars/BinaryBear0x?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+![Son Güncelleme](https://img.shields.io/github/last-commit/BinaryBear0x/BinaryBear0x?style=flat-square)
 
+![Katkı Serisi](https://streak-stats.demolab.com?user=BinaryBear0x&theme=transparent&hide_border=true)
 
+![Profil Özeti](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BinaryBear0x&theme=github)
 
-</td></tr></table>  
+## Blog
 
-<br/>  
+Teknoloji, malware analizi ve yazılım geliştirme üzerine notlarımı burada paylaşıyorum:
 
+[BinaryBear's Forge](https://BinaryBear0x.github.io)
 
-  
-
-<br/>  
-
-
-
-
-<br/>  
-
-
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=fenrirsoftware&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-
-
-
+<p align="center">
+  <img src="assets/mechanicus-emblem.png" alt="Mechanicus emblem" width="320">
+</p>

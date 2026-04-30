@@ -50,3 +50,7 @@ Teknoloji, malware analizi ve yazılım geliştirme üzerine notlarımı burada 
 <p align="center">
   <img src="assets/mechanicus-emblem.png" alt="Mechanicus emblem" width="320">
 </p>
+
+<blockquote>
+<p>In a world of black hats and white hats, wear whichever fits your head</p>
+</blockquote>
